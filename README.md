@@ -2,8 +2,9 @@
 
 <!-- Typing animation using an SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Developer;PHP+%7C+Bootstrap+%7C+JavaScript;Responsive+UI%2FUX+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4CA771&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Developer;PHP+%7C+Bootstrap+%7C+JavaScript;Responsive+UI%2FUX+Design" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vnct">
