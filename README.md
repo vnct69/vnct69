@@ -4,11 +4,6 @@
   <em>Web Developer |Frontend Developer | PHP | Bootstrap | JavaScript | Responsive UI/UX | UI/UX Designer</em>
 </p>
 
-<!-- Typing animation using GIF -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CA771&center=true&vCenter=true&width=435&lines=Web+Developer;PHP+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/vnct">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
