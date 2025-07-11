@@ -1,73 +1,80 @@
+<!-- 🌊 Wavy Header (optional) -->
+<!-- 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vnct/assets/main/wave-header.svg" alt="Wave Header" />
+</p>
+-->
+
 <h1 align="center">Hi, I'm Aaron Vincent Escondo 👋</h1>
 
-<!-- Typing animation using an SVG -->
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4CA771&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Developer;PHP+%7C+Bootstrap+%7C+JavaScript;Responsive+UI%2FUX+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4CA771&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Developer;PHP+%7C+Bootstrap+%7C+JavaScript;Responsive+UI%2FUX+Design" alt="Typing Animation" />
 </p>
 
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/vnct">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/vnct" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a passionate **Web Developer** with a strong foundation in **PHP** and **UI/UX Design**. I specialize in building responsive, clean, and interactive **web applications** using modern frontend and backend technologies. I care deeply about user experience and clean code architecture.
+Hi! I'm Aaron — a passionate **Web Developer** who blends backend logic with beautiful, responsive **UI/UX design**. I build clean and accessible **web applications** with a focus on usability and performance.
+
+- 🔍 Detail-oriented with a passion for clean, maintainable code  
+- 🎯 Focused on building intuitive, user-centered interfaces  
+- 🧩 Believer in modular and scalable architectures  
 
 ---
 
-### 🛠 Technical Skills
+### 🛠️ Technical Skills
 
 #### 💡 Core Strengths
-- Web Development
-- Secure Authentication & Data Handling
-- UI/UX Design & Prototyping
+- Web Development & UI/UX Integration  
+- Secure Authentication & Data Handling  
+- RESTful API Integration  
 - Real-Time Notification Systems
-- RESTful API Integration
 
-#### 🔧 Languages & Frameworks
-- PHP, C#, ASP.NET Core (.NET 6), JavaScript
-
-#### 🎨 Frontend
-- Bootstrap, Tailwind CSS, DataTables.js  
-- React *(basic)*, Flutter *(basic)*
-
-#### 🗄️ Backend & Databases
-- MySQL, SQL Server  
-- Modular MVC Architecture, AJAX
-
-#### 🧰 Tools
-- Git, GitHub, Visual Studio, VS Code  
-- Figma for UI/UX design
-
-#### 🎯 Other
-- QR Code Integration  
-- Progressive Enhancement
+#### 🧰 Tools & Technologies
+| Category | Skills |
+|---------|--------|
+| **Languages & Frameworks** | PHP, C#, ASP.NET Core (.NET 6), JavaScript |
+| **Frontend** | Bootstrap, Tailwind CSS, DataTables.js, React *(basic)*, Flutter *(basic)* |
+| **Backend & DB** | MySQL, SQL Server, AJAX, Modular MVC |
+| **Tools & Platforms** | Git, GitHub, VS Code, Visual Studio, Figma |
+| **Other** | QR Code Integration, Progressive Enhancement |
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🔗 Responsive portfolio websites with clean UI/UX
-- 🧾 Web-based systems with authentication & role management
-- ⚙️ Modular MVC apps with real-time features
+Here are a few things I’ve worked on:
 
-> 💬 Feel free to check out my repositories to explore more!
+
+- 🔐 **Web-Based Systems**  
+  With authentication, role management, and data processing.
+
+- ⚙️ **Modular MVC Apps**  
+  Featuring real-time updates, AJAX interactions, and maintainable code.
+
+> 📌 You can find these and more in my pinned or recent repositories.
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let’s Connect
+
+If you're interested in collaborating or just want to chat about web development:
 
 📫 [linkedin.com/in/vnct](https://www.linkedin.com/in/vnct)
 
 ---
 
-<!-- Optional: Add profile image if you'd like
+<!-- Optional: Add profile image -->
+<!--
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_ID?v=4" width="120" />
+  <img src="https://avatars.githubusercontent.com/u/YOUR_ID?v=4" width="120" style="border-radius: 50%;" />
 </p>
 -->
