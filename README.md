@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Aaron Vincent Escondo
 
-<!--
-**vnct69/vnct69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** with a focus on **PHP development** and **UI/UX Design**. I build responsive, functional, and visually clean **web applications** and **portfolios** that deliver seamless user experiences.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- PHP, MySQL
+- HTML, CSS, JavaScript
+- UI/UX Design
+- Bootstrap, Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Featured Work
+Explore my public repositories showcasing:
+- Web-based systems and applications
+- Personal portfolio projects
+- UI/UX design implementations
+
+### 🤝 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/vnct)
+
+---
+
+Thanks for visiting my profile!
