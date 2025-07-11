@@ -36,9 +36,11 @@ Hi! I'm Aaron — a passionate **Web Developer** who blends backend logic with b
 - Web Development & UI/UX Integration  
 - Secure Authentication & Data Handling  
 - RESTful API Integration  
-- Real-Time Notification Systems
 
 #### 🧰 Tools & Technologies
+
+<div align="center">
+
 | Category | Skills |
 |---------|--------|
 | **Languages & Frameworks** | PHP, C#, ASP.NET Core (.NET 6), JavaScript |
@@ -46,6 +48,9 @@ Hi! I'm Aaron — a passionate **Web Developer** who blends backend logic with b
 | **Backend & DB** | MySQL, SQL Server, AJAX, Modular MVC |
 | **Tools & Platforms** | Git, GitHub, VS Code, Visual Studio, Figma |
 | **Other** | QR Code Integration, Progressive Enhancement |
+
+</div>
+
 
 ---
 
