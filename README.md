@@ -16,13 +16,13 @@
 
 ---
 
-### 👋 About Me
+### 🙋‍♂️ About Me
 
 A passionate web developer with a strong focus on building modern, responsive, and interactive web applications. I enjoy blending technology and creativity, bringing ideas to life through clean, efficient code paired with thoughtful, user-centered design. Whether it's crafting intuitive interfaces or developing scalable features, I aim to create experiences that are both functional and visually engaging.
 
 ---
 
-### 🧠 Technical Stack
+### 🧠 Tech Stack
 
 <p align="center">
   <!-- Languages & Frameworks -->
