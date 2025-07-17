@@ -20,10 +20,6 @@
 
 A passionate web developer with a strong focus on building modern, responsive, and interactive web applications. I enjoy blending technology and creativity, bringing ideas to life through clean, efficient code paired with thoughtful, user-centered design. Whether it's crafting intuitive interfaces or developing scalable features, I aim to create experiences that are both functional and visually engaging.
 
-- 🔍 Detail-oriented with a passion for clean, maintainable code  
-- 🎯 Focused on building intuitive, user-centered interfaces  
-- 🧩 Believer in modular and scalable architectures  
-
 ---
 
 ### 🧠 Technical Stack
@@ -70,8 +66,9 @@ Here are a few things I’ve worked on:
 
 ### 🤝 Let’s Connect
 
-If you're interested in collaborating or just want to chat about web development:
+
 <p align="center">
+  If you're interested in collaborating or just want to chat about web development:
   <a href="https://www.linkedin.com/in/vnct" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
