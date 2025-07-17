@@ -65,8 +65,8 @@ Here are a few things I’ve worked on:
 ---
 
 ### 🤝 Let’s Connect 
+ If you're interested in collaborating or just want to chat about web development 🤍
 <p align="center">
-  If you're interested in collaborating or just want to chat about web development
   <a href="https://www.linkedin.com/in/vnct" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
