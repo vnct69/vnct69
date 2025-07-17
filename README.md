@@ -49,21 +49,6 @@ A passionate web developer with a strong focus on building modern, responsive, a
 
 ---
 
-### 🚀 Featured Projects
-
-Here are a few things I’ve worked on:
-
-
-- 🔐 **Web-Based Systems**  
-  With authentication, role management, and data processing.
-
-- ⚙️ **Modular MVC Apps**  
-  Featuring real-time updates, AJAX interactions, and maintainable code.
-
-> 📌 You can find these and more in my pinned or recent repositories.
-
----
-
 ### 🤝 Let’s Connect 
  If you're interested in collaborating or just want to chat about web development 🤍
 <p align="center">
