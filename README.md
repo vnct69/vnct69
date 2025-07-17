@@ -5,24 +5,20 @@
 </p>
 -->
 
-<h1 align="center">Hi, I'm Aaron Vincent Escondo 👋</h1>
+<h1 align="center">Hi, I'm Aaron Vincent Escondo </h1>
 
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4CA771&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Developer;PHP+%7C+Bootstrap+%7C+JavaScript;Responsive+UI%2FUX+Design" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vnct" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</p>
+
 
 ---
 
-### 👨‍💻 About Me
+### 👋 About Me
 
-Hi! I'm Aaron — a passionate **Web Developer** who blends backend logic with beautiful, responsive **UI/UX design**. I build clean and accessible **web applications** with a focus on usability and performance.
+A passionate web developer with a strong focus on building modern, responsive, and interactive web applications. I enjoy blending technology and creativity, bringing ideas to life through clean, efficient code paired with thoughtful, user-centered design. Whether it's crafting intuitive interfaces or developing scalable features, I aim to create experiences that are both functional and visually engaging.
 
 - 🔍 Detail-oriented with a passion for clean, maintainable code  
 - 🎯 Focused on building intuitive, user-centered interfaces  
@@ -75,8 +71,11 @@ Here are a few things I’ve worked on:
 ### 🤝 Let’s Connect
 
 If you're interested in collaborating or just want to chat about web development:
-
-📫 [linkedin.com/in/vnct](https://www.linkedin.com/in/vnct)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vnct" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
 
 ---
 
