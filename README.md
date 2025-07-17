@@ -30,26 +30,9 @@ Hi! I'm Aaron — a passionate **Web Developer** who blends backend logic with b
 
 ---
 
-### 🛠️ Technical Skills
+### 🧠 Technical Stack
 
-#### 💡 Core Strengths
-- Web Development & UI/UX Integration  
-- Secure Authentication & Data Handling  
-- RESTful API Integration  
-
-#### 🧰 Tools & Technologies
-
-<div align="center">
-
-| Category | Skills |
-|---------|--------|
-| **Languages & Frameworks** | PHP, C#, ASP.NET Core (.NET 6), JavaScript |
-| **Frontend** | Bootstrap, Tailwind CSS, DataTables.js, React *(basic)*, Flutter *(basic)* |
-| **Backend & DB** | MySQL, SQL Server, AJAX, Modular MVC |
-| **Tools & Platforms** | Git, GitHub, VS Code, Visual Studio, Figma |
-| **Other** | QR Code Integration, Progressive Enhancement |
-
-</div>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Tkinter-FFCD00?style=for-the-badge&logo=python&logoColor=black"/> </p>
 
 
 ---
