@@ -1,10 +1,3 @@
-<!-- 🌊 Wavy Header (optional) -->
-<!-- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vnct/assets/main/wave-header.svg" alt="Wave Header" />
-</p>
--->
-
 <h1 align="center">Hi, I'm Aaron Vincent Escondo </h1>
 
 <!-- Typing animation -->
@@ -58,12 +51,5 @@ A passionate web developer with a strong focus on building modern, responsive, a
   
   
 </p>
-
----
-
-<!-- Optional: Add profile image -->
-<!--
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_ID?v=4" width="120" style="border-radius: 50%;" />
-</p>
--->
+# 📊 Stats:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vnct69&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=vnct69&theme=default&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnct69&layout=compact&hide_border=true" alt="Most Used Languages" /> </p>
