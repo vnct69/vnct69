@@ -48,8 +48,9 @@ A passionate web developer with a strong focus on building modern, responsive, a
   <a href="https://www.linkedin.com/in/vnct" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  
-  
 </p>
-# 📊 Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vnct69&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=vnct69&theme=default&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnct69&layout=compact&hide_border=true" alt="Most Used Languages" /> </p>
+
+---
+
+## 📊 Stats:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vnct69&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=vnct69&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnct69&layout=compact&hide_border=true" alt="Most Used Languages" /> </p>
