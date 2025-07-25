@@ -54,7 +54,8 @@ A passionate web developer with a strong focus on building modern, responsive, a
 
 ## 📊 Stats:
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vnct69&theme=tokyonight&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnct69&layout=compact&hide_border=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vnct69&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnct69&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" height="200" />
 </p>
+
 
