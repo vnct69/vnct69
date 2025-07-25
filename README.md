@@ -43,11 +43,11 @@ A passionate web developer with a strong focus on building modern, responsive, a
 
 ## 📊 Stats:
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vnct69&theme=theme=gruvbox&hide_border=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vnct69&theme=gruvbox&hide_border=true" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnct69&layout=compact&theme=theme=gruvbox&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnct69&layout=compact&theme=gruvbox&hide_border=true" width="400"/>
 </p>
 
 
